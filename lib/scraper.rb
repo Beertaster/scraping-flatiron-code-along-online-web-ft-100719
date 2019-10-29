@@ -28,9 +28,6 @@ class Scraper
     
   end
   
-  def print_courses
-    
-  end
 end
 
 
